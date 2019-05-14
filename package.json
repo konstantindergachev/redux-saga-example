@@ -1,5 +1,5 @@
 {
-  "name": "saga-example",
+  "name": "redux-saga-example",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Simple redux-saga example",

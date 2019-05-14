@@ -1,11 +1,11 @@
-# Webpack Template for React
-> Base config of Webpack module bundler.
+# Redux-saga example
+> My simple redux-saga example.
 
 ## Quick Start
 
 ```bash
 # Clone repo
-git clone git@github.com:konstantindergachev/webpack-template.git
+git clone git@github.com:konstantindergachev/redux-saga-example.git
 
 # Install dependencies
 yarn install -i
