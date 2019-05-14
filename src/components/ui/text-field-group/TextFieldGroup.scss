@@ -1,0 +1,27 @@
+.form__group{
+    margin-bottom: 10px;
+}
+
+.form__control{
+    width: 100%;
+    margin: 0;
+    font-family: inherit;
+    padding: 6px 12px;
+    line-height: 1.7;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+
+    overflow: visible;
+
+    transition: all .3s ease-in-out;
+}
+.form__control:focus{
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}

@@ -1,0 +1,8 @@
+.oneuser{
+  &__title{
+    text-transform: uppercase;
+  }
+  & > span{
+    font-weight: 700;
+  }
+}
